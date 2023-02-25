@@ -17,7 +17,7 @@ namespace GitCICDforDotNetCore.Controllers
         {
             _logger = logger;
         }
-
+//New Change
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
