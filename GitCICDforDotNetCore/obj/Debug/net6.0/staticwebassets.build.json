@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WOKcMMMNFkWcjI/dtcbR3FskPQvcDeL/SmN/JDrRoAw=",
+  "Source": "GitCICDforDotNetCore",
+  "BasePath": "_content/GitCICDforDotNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
